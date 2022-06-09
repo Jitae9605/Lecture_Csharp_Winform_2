@@ -145,7 +145,6 @@ namespace Lecture_Csharp_Winform_2
 			tvDummy.SelectedNode.Nodes.Add(random.Next().ToString());
 			tvDummy.SelectedNode.Expand();
 			TreeToList();
-
 		}
 	}
 }
